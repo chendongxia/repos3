@@ -15,5 +15,6 @@ public class Springboot01CacheApplication {
         SpringApplication.run(Springboot01CacheApplication.class, args);
 
         System.out.println("hello my first git");
+        System.out.println("xiuiga ");
     }
 }
