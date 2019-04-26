@@ -13,5 +13,7 @@ public class Springboot01CacheApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Springboot01CacheApplication.class, args);
+
+        System.out.println("hello my first git");
     }
 }
